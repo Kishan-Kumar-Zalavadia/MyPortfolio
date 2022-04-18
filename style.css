@@ -664,6 +664,9 @@ section .title::after{
 #instagram {
     color: #bc2a8d;
 }
+#github{
+    color: #ffffff ;
+}
 
 .contact .icons .row a:hover {
     font-size: 45px;
