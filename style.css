@@ -581,7 +581,7 @@ section .title::after{
     margin-left: 30px;
 }
 .contact .contact-content .row i{
-    font-size: 25px;
+    font-size: 30px;
     color:var(--main--color);
 }
 .contact .contact-content .row .info .head{
@@ -644,7 +644,30 @@ section .title::after{
     color: var(--main--color);
     background: none;
 }
+#user{
+    color: rgb(97, 162, 0);
+}
+#address{
+    color: red;
+}
+#mail{
+    color: orange;
+}
+#facebook {
+    color: #4267B2;
+}
 
+#linkedin {
+    color: #006AFF;
+}
+
+#instagram {
+    color: #bc2a8d;
+}
+
+.contact .icons .row a:hover {
+    font-size: 45px;
+}
 
 
 
