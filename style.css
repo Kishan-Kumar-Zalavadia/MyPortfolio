@@ -824,5 +824,9 @@ footer span a:hover{
     .home .home-content .text-2{
         font-size: 50px;
     }
+    .skills-content .right .row p{
+        width: 100px;
+        font-size: 14px;
+    }
 }
 }
